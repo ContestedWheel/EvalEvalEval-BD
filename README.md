@@ -21,4 +21,4 @@ The `/leaderboard` command is made by wascertified, which you can find [here](ht
 
 The classic `/rarity` command is made by GamingadlerHD. The repo still exists however the command itself has been deleted for some reason so I won't be linking it here.
 
-All evals are taken from different public Discord servers and have been archived in my own private server until now.
+All evals are taken from different public Discord servers and have been archived by me.
