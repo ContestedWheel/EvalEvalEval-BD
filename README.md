@@ -13,10 +13,12 @@ If you have any issue regarding any of the tutorials or need some extra help, [j
 > [!IMPORTANT]
 > Make sure to put your issue in the [#coding](https://discord.com/channels/1255250024741212262/1255255977029144596) channel, not the #help channel.
 
-## Credits
+## Sources
 
-[Nixter](https://github.com/itsjruntime/) for creating the `/inspect` and the improved `/rarity` command.
+The `/inspect` and the improved `/rarity` command is from CarFigures (repo has been deleted) and has been converted to Ballsdex by me.
 
-[wascertified](https://codeberg.org/wascertified/custom-cogs) for creating the `/leaderboard` command.
+The `/leaderboard` command is made by wascertified, which you can find [here](https://codeberg.org/wascertified/custom-cogs)
 
-[GamingAdlerHD](https://github.com/GamingadlerHD/) for creating the classic `/rarity` command.
+The classic `/rarity` command is made by GamingadlerHD. The repo still exists however the command itself has been deleted for some reason so I won't be linking it here.
+
+All evals are taken from different public Discord servers and have been archived in my own private server until now.
