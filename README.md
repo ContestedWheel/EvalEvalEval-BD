@@ -6,7 +6,7 @@ This is a repo for evals and custom commands that various people in the communit
 
 Third party packages will not be included unless the owner of the package gives me permission to add a link to the package here.
 
-Some tutorials are avaliable for this repo, click "Wiki" or [click this blue text.](https://github.com/ContestedWheel/Some-BD-Tutorials/wiki) to access them.
+Some tutorials are avaliable for this repo, click "Wiki" or [click this blue text.](https://github.com/ContestedWheel/EvalEvalEval-BD/wiki) to access them. 
 
 ## Discord server
 
