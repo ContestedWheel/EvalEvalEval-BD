@@ -2,6 +2,9 @@ COUNTRYBALL = "countryball"
 HP_BUFF = 1000
 ATK_BUFF = 1000
 SPECIAL = None
+# To be clear, you do not have to define a special for the spawn to work.
+# If you want to spawn a ball with random buffs and chance for a special
+# then go to spawn_ball.py instead.
 
 from ballsdex.settings import settings
 from ballsdex.packages.countryballs.countryball import BallSpawnView
