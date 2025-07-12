@@ -3,8 +3,8 @@
     # This command sends the card of a countryball in ephemeral.
     # Uncomment the 4th app_commands if you want the command to be an admin command.
     @app_commands.command(name="viewcard", description="View a card of an existing countryball.")
-    @app_commands.describe(brawler="The countryball to view card of")
-    @app_commands.describe(special="Apply a sepcial to the card.")
+    @app_commands.describe(countryball="The countryball to view card of")
+    @app_commands.describe(special="Apply a special to the card.")
     # @app_commands.checks.has_any_role(*settings.root_role_ids)
     async def viewcard(
         self,
