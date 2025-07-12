@@ -8,6 +8,7 @@ The rest of this README will be giving a short description on what each eval doe
 (R) = Requires replacing something
 (A) = Requires an attachment
 (O) = Optional replacements
+(V) = Might not be usable on verified bots.
 
 # Balls
 
@@ -32,3 +33,23 @@ The rest of this README will be giving a short description on what each eval doe
 - top_10_userids: Sends the top 10 user ID's with the most balls.
 
 - top_10_users: Sends the top 10 users (discord tags) with the most balls.
+
+# Games
+
+- guess_the_artist_card_art: A game where you can guess the artist(s) of a random ball's card art. (useless if the spawn art and card art is the same)
+
+- guess_the_artist_spawn_art: A game where you can guess the artist(s) of a random ball's spawn art. (useless if the spawn art and card art is the same)
+
+- guess_the_rarity: A game where you can guess the rarity of a random ball.
+
+# Other
+
+- change_bot_pfp: Change the profile picture of the bot. (A)
+
+- completion: Give all balls to a user ID of your choice with no health or attack buffs. (R)
+
+- create_button: Create a button that says something to the user that clicks it. (R)
+
+- dm_user: DM's a user text of your choice. (R) (V)
+
+- transfer_inventories: Transfer an inventory to another user. oldPlayer is the inventory that you wanna transfer, and newPlayer is who you want to transfer the inventory to. (R)
