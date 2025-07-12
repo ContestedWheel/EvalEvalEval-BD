@@ -1,6 +1,6 @@
 This command has extra instructions to add to your bot, so this README will help you with it.
 
-1. Drag `cardgenerator.py` and the `fonts` folder to `ballsdex/packages/balls`
+1. Drag the `cardgenerator.py` folder to `ballsdex/packages/balls`
 
 It should look like this:
 
