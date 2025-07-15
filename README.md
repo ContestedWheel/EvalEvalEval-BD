@@ -25,4 +25,8 @@ The `/leaderboard` command is made by wascertified, which you can find [here](ht
 
 The classic `/rarity` command is made by GamingadlerHD. The repo still exists however the command itself has been deleted for some reason so I won't be linking it here.
 
+The `/viewcard` command is made by AngerRandom and is free for anyone to use. Kudos to him for also fixing some typos and helping me redo the instructions to add his command.
+
+Thanks to `molten_is_glitched` on Discord for helping me fix the rarity button, as it broke in a version that I cannot remember.
+
 All evals are taken from different public Discord servers and have been archived by me.
