@@ -4,9 +4,9 @@
 
 This is a repo for evals and custom commands that various people in the community have made for Ballsdex.
 
-Third party packages will not be included unless the owner of the package gives me permission to add a link to the package here.
-
-Some tutorials are avaliable for this repo, click "Wiki" or [click this blue text.](https://github.com/ContestedWheel/EvalEvalEval-BD/wiki) to access them. 
+As Custom Commands are a little bit more on the advanced side, I have created some tutorials that will try to help beginners. Click "Wiki" or [click this blue text.](https://github.com/ContestedWheel/EvalEvalEval-BD/wiki) to access them.
+If you don't want to touch code or not ready for adding custom stuff yet, I suggest you steer away from the Custom Commands part until you are ready.
+Evals are a bit easier because it is just copying and pasting text, but if you are ever confused I always suggest joining the Discord server for help.
 
 ## Discord server
 
