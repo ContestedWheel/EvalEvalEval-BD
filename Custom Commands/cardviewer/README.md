@@ -1,4 +1,4 @@
-This command has extra instructions to add to your bot, so this README will help you with it.
+# How do I add this?
 
 1. Drag the `cardgenerator.py` folder to `ballsdex/packages/balls`
 
