@@ -16,3 +16,16 @@
 > If you encounter indenting issues when pasting like this picture below, just press backspace until it lines up correctly.
 
 <img width="938" height="258" alt="image" src="https://github.com/user-attachments/assets/78c1369d-f852-4d02-b5b1-e2ecc6fc95a5" />
+
+# Can I make the button unusable after someone catches it?
+
+Yes you can!
+
+In the same file (`countryball.py`) go to line 158 and create a new line, Then, copy and paste what's below in the new line
+```py
+self.rar_btn.disabled = True
+```
+
+It should look like this. If it does, save the file and restart the bot to apply changes.
+
+<img width="342" height="61" alt="image" src="https://github.com/user-attachments/assets/9e757e75-e143-402b-9f8e-678aa464b0dd" />
