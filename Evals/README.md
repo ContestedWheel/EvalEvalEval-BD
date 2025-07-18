@@ -8,7 +8,6 @@ The rest of this README will be giving a short description on what each eval doe
 (R) = Requires replacing something
 (A) = Requires an attachment
 (O) = Optional replacements
-(V) = Might not be usable on verified bots due to possibly breaking TOS.
 
 # Balls
 
@@ -54,13 +53,9 @@ The rest of this README will be giving a short description on what each eval doe
 
 - create_button: Create a button that says something to the user that clicks it. (R)
 
-- dm_user: DM's a user text of your choice. (R) (V)
-
 - transfer_inventories: Transfer an inventory to another user. oldPlayer is the inventory that you wanna transfer, and newPlayer is who you want to transfer the inventory to. (R)
 
 # Servers
-
-- invites_for_servers: Create invites for servers under 15 members. (I am not responsible if this gets used in malicious ways) (V)
 
 - leave_server: Makes the bot leave a server ID of your choice. (R)
 
