@@ -1,6 +1,6 @@
 # Inspect command originally named "info" made by Nixter and converted from CarFigures to Ballsdex by me.
 # This command will send an embed with all of the information about the countryball (except for regime and economy).
-# Make sure to import "Ball" in cog.py when adding this command
+# Make sure to import Ball as "from ballsdex.core.models import Ball"
 
     @app_commands.command()
     @app_commands.checks.cooldown(1, 5, key=lambda i: i.user.id)
