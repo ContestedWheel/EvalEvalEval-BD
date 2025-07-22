@@ -6,7 +6,9 @@ If you don't know how to use the eval command, click [here](https://github.com/C
 The rest of this README will be giving a short description on what each eval does.
 
 (R) = Requires replacing something
+
 (A) = Requires an attachment
+
 (O) = Optional replacements
 
 # Balls
