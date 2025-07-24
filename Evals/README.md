@@ -57,6 +57,8 @@ The rest of this README will be giving a short description on what each eval doe
 
 - create_regime: Create a regime. (R) (A)
 
+- delete_ball: Deletes a ball. (R)
+
 - transfer_inventories: Transfer an inventory to another user. oldPlayer is the inventory that you wanna transfer, and newPlayer is who you want to transfer the inventory to. (R)
 
 # Servers
