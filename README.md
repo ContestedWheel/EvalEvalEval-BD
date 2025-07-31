@@ -6,6 +6,8 @@ This is a repo for evals and custom commands that various people in the communit
 
 As Custom Commands are a little bit more on the advanced side, I have created some tutorials that will try to help beginners. Click "Wiki" or [click this blue text.](https://github.com/ContestedWheel/EvalEvalEval-BD/wiki) to access them.
 
+Custom Commands are **NOT** packages. Please stop treating them like one.
+
 If you don't want to touch code or not ready for adding custom stuff yet, I suggest you steer away from the Custom Commands part until you are ready.
 
 Evals are a bit easier because it is just copying and pasting text, but if you are ever confused I always suggest joining the Discord server for help.
