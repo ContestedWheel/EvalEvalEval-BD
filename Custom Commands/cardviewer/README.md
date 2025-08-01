@@ -1,3 +1,6 @@
+> [!NOTE]  
+> This custom command was made by [AngerRandom](https://github.com/AngerRandom), I just made a easy to follow tutorial with markdown.
+
 # How do I add this?
 
 1. Drag the `cardgenerator.py` folder to `ballsdex/packages/balls`
