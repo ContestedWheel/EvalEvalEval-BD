@@ -5,10 +5,10 @@ import random
 import traceback
 from datetime import datetime, timedelta, timezone
 
-# For line 39
+# Paste this on line 39
 TIMEZONE_SETTING = timezone(timedelta(hours=8)) # Timezone configuration - change this to adjust timezone
 
-# For line 124
+# Paste this on line 124
         self.daily_claims = {}
         self.daily_claims_file = os.path.join(os.path.dirname(__file__), "daily_claims.json")
         self.load_daily_claims()
