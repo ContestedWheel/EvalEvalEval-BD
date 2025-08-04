@@ -67,6 +67,8 @@ The rest of this README will be giving a short description on what each eval doe
 
 - leave_server: Makes the bot leave a server ID of your choice. (R)
 
+- leave_all_servers: Makes the bot leaves all servers it is in.
+
 - list_all_servers: Lists all servers the bot is in
 
 - send_message: Makes the bot send a message in the same channel or any channel ID. (R)
