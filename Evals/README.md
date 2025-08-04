@@ -65,9 +65,9 @@ The rest of this README will be giving a short description on what each eval doe
 
 # Servers
 
-- leave_server: Makes the bot leave a server ID of your choice. (R)
-
 - leave_all_servers: Makes the bot leaves all servers it is in.
+
+- leave_server: Makes the bot leave a server ID of your choice. (R)
 
 - list_all_servers: Lists all servers the bot is in
 
