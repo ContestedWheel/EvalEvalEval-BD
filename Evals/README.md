@@ -65,7 +65,7 @@ The rest of this README will be giving a short description on what each eval doe
 
 # Servers
 
-- leave_all_servers: Makes the bot leaves all servers it is in.
+- leave_multiple_server: Leaves 50 servers if your bot is medium-large sized and you want it to leave more servers.
 
 - leave_server: Makes the bot leave a server ID of your choice. (R)
 
