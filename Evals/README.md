@@ -15,6 +15,10 @@ The rest of this README will be giving a short description on what each eval doe
 
 - list_catch_names: Lists catch names of a ball of your choice. (R)
 
+- list_disabled_balls: Lists all disabled balls.
+
+- owns_most_specific_ball: Lists the top 10 users that owns the most of a specific ball. (R)
+
 - print_ball_info: Prints all information of a ball of your choice. (e.g. name, rarity, catch names) (R)
 
 - rarity_list: Makes a rarity list.
@@ -65,7 +69,9 @@ The rest of this README will be giving a short description on what each eval doe
 
 # Servers
 
-- leave_multiple_server: Leaves 50 servers if your bot is medium-large sized and you want it to leave more servers.
+- blacklist_server: Blacklists a server, pretty simple to understand. (R)
+
+- leave_multiple_servers: Leaves 50 servers if your bot is medium-large sized and you want it to leave more servers.
 
 - leave_server: Makes the bot leave a server ID of your choice. (R)
 
@@ -106,6 +112,8 @@ The rest of this README will be giving a short description on what each eval doe
 - change_hp: Change the health of a ball. (R)
 
 - change_rarity: Change the rarity of a ball. (R)
+
+- change_regime: Change the regime of a ball. (R)
 
 - change_short_name: Change the short name of a ball. (R)
 
