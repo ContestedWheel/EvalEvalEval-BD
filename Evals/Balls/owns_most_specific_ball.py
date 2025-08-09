@@ -3,7 +3,7 @@ from tortoise.functions import Count
 BALL_NAME = "INSERT_BALL_NAME_HERE"
 players = await Player.annotate(
     ball_count=Count("balls", distinct=True)
-).filter(ballsballcountry=BALL_NAME).order_by("-ball_count").limit(INSERT_AMOUNT_OF_USERS)
+).filter(ballsballcountry=BALL_NAME).order_by("-ball_count").limit(10)
 
 print(BALL_NAME + "\n")
 for player in players:
