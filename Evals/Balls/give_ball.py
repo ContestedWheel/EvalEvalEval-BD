@@ -1,6 +1,4 @@
-If you want the balls to have random stats, use this command:
 
-.eval
 import random
 from ballsdex.core.models import Ball, Player, Special, BallInstance
 from ballsdex.settings import settings
