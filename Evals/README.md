@@ -13,6 +13,8 @@ The rest of this README will be giving a short description on what each eval doe
 
 # Balls
 
+- give_ball.py: Give a ball to a user (R)
+
 - list_catch_names: Lists catch names of a ball of your choice. (R)
 
 - list_disabled_balls: Lists all disabled balls.
