@@ -43,8 +43,6 @@ The rest of this README will be giving a short description on what each eval doe
 
 # Stats
 
-- caught_with_event: Lists all balls that have been caught with a special of your choice. (R)
-
 - disabled_balls: Lists all balls that are disabled.
 
 - top_10_userids: Sends the top 10 user ID's with the most balls.
@@ -90,6 +88,16 @@ The rest of this README will be giving a short description on what each eval doe
 - spawn_ball_options: Spawns a ball of your choice along with the options of setting the HP/ATK buffs and optinally setting a special to the spawn. (R) (O)
 
 - spawn_random_ball: Spawns a random ball.
+
+# Specials
+
+- caught_with_event: Lists all balls that have been caught with a special of your choice. (R)
+
+- change_special_card: Change the card of a special. (R) (A)
+
+- create_special: Create a special. (R) (A)
+
+- top_10_users_specials: Sends the top 10 users with the most specials.
 
 # Updating
 
