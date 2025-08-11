@@ -49,8 +49,6 @@ The rest of this README will be giving a short description on what each eval doe
 
 - top_10_users: Sends the top 10 users (discord tags) with the most balls.
 
-- top_10_users_specials: Sends the top 10 users with the most specials.
-
 # Other
 
 - change_bot_pfp: Change the profile picture of the bot. (A)
