@@ -83,7 +83,7 @@ The rest of this README will be giving a short description on what each eval doe
 
 - spawn_ball: Spawns a ball of your choice, much kudos to Dormierian for making this one. (R)
 
-- spawn_ball_options: Spawns a ball of your choice along with the options of setting the HP/ATK buffs and optinally setting a special to the spawn. (R) (O)
+- spawn_ball_options: Spawns a ball of your choice along with the options of setting the HP/ATK buffs and a special to the spawn. (R) (O)
 
 - spawn_random_ball: Spawns a random ball.
 
