@@ -93,7 +93,11 @@ The rest of this README will be giving a short description on what each eval doe
 
 - change_special_card: Change the card of a special. (R) (A)
 
+- change_special_phrase: Change the catch phrase of a special. (R)
+
 - create_special: Create a special. (R) (A)
+
+- special_count_list: Makes a list of all specials along with counting how much of those specials exist.
 
 - top_10_users_specials: Sends the top 10 users with the most specials.
 
