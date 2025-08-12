@@ -45,6 +45,8 @@ The rest of this README will be giving a short description on what each eval doe
 
 - disabled_balls: Lists all balls that are disabled.
 
+- spawn_chances: Makes a list of spawn chances in percentages.
+
 - top_10_userids: Sends the top 10 user ID's with the most balls.
 
 - top_10_users: Sends the top 10 users (discord tags) with the most balls.
