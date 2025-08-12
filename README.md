@@ -12,6 +12,8 @@ If you don't want to touch code or not ready for adding custom stuff yet, I sugg
 
 Evals are a bit easier because it is just copying and pasting text, but if you are ever confused I always suggest joining the Discord server for help.
 
+If you have any evals or custom commands you want me to add, ping me in the Ballsdex Developers discord server (ihailthenight1234).
+
 ## Discord server
 
 If you have any issue regarding any of the tutorials or need some extra help, [join the Ballsdex Developers server by clicking this blue text or the shield above.](https://discord.com/invite/PKKhee4fvy)
