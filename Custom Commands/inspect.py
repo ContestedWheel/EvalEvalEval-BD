@@ -2,6 +2,9 @@
 # This command will send an embed with all of the information about the countryball (except for regime and economy).
 # Make sure to import Ball as "from ballsdex.core.models import Ball"
 
+# WARNING: If a ball you are trying to inspect does not have catch names, the bot will return an error in logs.
+# The solution to this is to add the ball name as a catch name then reload cache so that that command actually registers a catch name.
+
     @app_commands.command()
     @app_commands.checks.cooldown(1, 5, key=lambda i: i.user.id)
     async def inspect(self, interaction: discord.Interaction, ball: BallEnabledTransform):
