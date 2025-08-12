@@ -16,7 +16,7 @@ If you have any evals or custom commands you want me to add, ping me in the Ball
 
 ## Discord server
 
-If you have any issue regarding any of the tutorials or need some extra help, [join the Ballsdex Developers server by clicking this blue text or the shield above.](https://discord.com/invite/PKKhee4fvy)
+If you have any issue regarding any of the tutorials or need some extra help, [join the Ballsdex Developers server by clicking this blue text or the shield above.](https://discord.com/invite/PKKhee4fvy) You can also make an issue on this repo if you do not have Discord.
 
 > [!IMPORTANT]
 > Make sure to put your issue in the [#coding](https://discord.com/channels/1255250024741212262/1255255977029144596) channel, not the #help channel.
