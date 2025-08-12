@@ -79,6 +79,8 @@ The rest of this README will be giving a short description on what each eval doe
 
 - send_message: Makes the bot send a message in the same channel or any channel ID. (R)
 
+- send_message_all_servers: Makes the bot send a message in all of the servers it is in. Errors **might** occur if the bot has missing permissions in a channel or the channel is not found.
+
 # Spawning
 
 - fake_spawn: Makes a fake spawn with choice of countryball, customizable spawn message, catch button, and message that the bot says to the user who tries to catch the fake spawn (R)
