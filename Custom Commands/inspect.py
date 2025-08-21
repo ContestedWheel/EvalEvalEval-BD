@@ -15,18 +15,28 @@
         emoji = (
             self.bot.get_emoji(ball.emoji_id) or ""
         )  # Get emoji or an empty string if not found
+
+        description_lines = []
+
+        if ball.short_name:
+            description_lines.append(f"**⋄ Short Name:** {ball.short_name}")
+
+        if ball.catch_names:
+            catch_names_str = ", ".join(name.strip() for name in ball.catch_names.split(";"))
+            description_lines.append(f"**⋄ Catch Names:** {catch_names_str}")
+
+        description_lines.extend([
+            f"**⋄ Rarity:** {ball.rarity}",
+            f"**⋄ HP:** {ball.health}",
+            f"**⋄ ATK:** {ball.attack}",
+            f"**⋄ Capacity Name:** {ball.capacity_name}",
+            f"**⋄ Capacity Description:** {ball.capacity_description}",
+            f"**⋄ Credits:** {ball.credits}",
+        ])
+        
         embed = discord.Embed(
             title=f"{emoji} {ball.country} Information:",
-            description=(
-                f"**⋄ Short Name:** {ball.short_name}\n"
-                f"**⋄ Catch Names:** {''.join(ball.catch_names or "None")}\n"
-                f"**⋄ Rarity:** {ball.rarity}\n"
-                f"**⋄ HP:** {ball.health}\n"
-                f"**⋄ ATK:** {ball.attack}\n"
-                f"**⋄ Capacity Name:** {ball.capacity_name}\n"
-                f"**⋄ Capacity Description:** {ball.capacity_description}\n"
-                f"**⋄ Credits:** {ball.credits}\n"
-            ),
+            description="\n".join(description_lines),
             color=discord.Colour.blurple()
         )
         await interaction.response.send_message(
