@@ -1,9 +1,5 @@
 # Inspect command originally named "info" made by Nixter and converted from CarFigures to Ballsdex by me.
 # This command will send an embed with all of the information about the countryball (except for regime and economy).
-# Make sure to import Ball as "from ballsdex.core.models import Ball"
-
-# WARNING: If a ball you are trying to inspect does not have catch names, the bot will return an error in logs.
-# The solution to this is to add the ball name as a catch name then reload cache so that that command actually registers a catch name.
 
     @app_commands.command()
     @app_commands.checks.cooldown(1, 5, key=lambda i: i.user.id)
@@ -23,7 +19,7 @@
             title=f"{emoji} {ball.country} Information:",
             description=(
                 f"**⋄ Short Name:** {ball.short_name}\n"
-                f"**⋄ Catch Names:** {''.join(ball.catch_names)}\n"
+                f"**⋄ Catch Names:** {''.join(ball.catch_names or "None")}\n"
                 f"**⋄ Rarity:** {ball.rarity}\n"
                 f"**⋄ HP:** {ball.health}\n"
                 f"**⋄ ATK:** {ball.attack}\n"
