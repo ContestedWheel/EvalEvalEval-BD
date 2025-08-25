@@ -12,11 +12,11 @@ async def auto_catch():
     if not self.caught:
         bot_user = self.bot.user
         player = await Player.get(discord_id=bot_user.id)
-        ball, is_new, dailycatch, fullsd = await self.catch_ball(
+        ball, is_new = await self.catch_ball(
         bot_user, player=player, guild=channel.guild
         )
         await self.message.reply(
-        self.get_catch_message(ball, is_new, bot_user.mention, dailycatch, fullsd),
+        self.get_catch_message(ball, is_new, bot_user.mention),
         allowed_mentions=discord.AllowedMentions(users=player.can_be_mentioned),
         )
         await self.message.edit(view=self)
