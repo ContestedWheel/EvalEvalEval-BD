@@ -13,18 +13,18 @@ It should look like this once you have pasted in the import:
 
 <img width="673" height="288" alt="image" src="https://github.com/user-attachments/assets/d6d07983-770d-4b2b-bcab-c58f62ac586d" />
 
-3. Copy the second thing you see after the import, which would be the class variable. Paste it under line 40, it should look like this when you paste it:
+3. Copy the second thing you see after the import, which would be the class variable. Paste it under line 151, it should look like this when you paste it:
 
 > [!NOTE]  
 > I have added Before and After pictures for less confusion since some people may already have code in these lines.
 
 Before:
 
-<img width="444" height="67" alt="image" src="https://github.com/user-attachments/assets/abde0c0f-850e-4e95-b81a-adcf3f2ac292" />
+<img width="460" height="235" alt="image" src="https://github.com/user-attachments/assets/0920b11a-e5a2-4396-90dd-bd68657891a9" />
 
 After:
 
-<img width="376" height="88" alt="image" src="https://github.com/user-attachments/assets/57333a6a-cf90-4e94-84ad-b39f0ce0aa1e" />
+<img width="550" height="270" alt="image" src="https://github.com/user-attachments/assets/c20d368d-c029-43a0-9114-89342c394560" />
 
 ---
 
@@ -32,11 +32,11 @@ After:
 
 Before:
 
-<img width="905" height="627" alt="image" src="https://github.com/user-attachments/assets/79a5da56-6d06-409f-8dee-db1ceabcaa0e" />
+<img width="835" height="397" alt="image" src="https://github.com/user-attachments/assets/5c932aed-4490-4e52-914c-a19cfef41b20" />
 
 After:
 
-<img width="822" height="860" alt="image" src="https://github.com/user-attachments/assets/ac6b3ea4-6790-47b8-9b35-93736a42be4a" />
+<img width="769" height="662" alt="image" src="https://github.com/user-attachments/assets/7c7ad03f-4662-40c9-ada5-098d56d5c0da" />
 
 ---
 
