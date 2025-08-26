@@ -53,8 +53,6 @@ The rest of this README will be giving a short description on what each eval doe
 
 # Other
 
-- self_catching: Make the bot itself catch the ball it spawns. (R)
-
 - change_bot_pfp: Change the profile picture of the bot. (A)
 
 - completion: Give all balls to a user ID of your choice with no health or attack buffs. (R)
