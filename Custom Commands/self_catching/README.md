@@ -44,11 +44,11 @@ After:
 
 Before:
 
-<img width="739" height="260" alt="image" src="https://github.com/user-attachments/assets/3d969bba-929a-4584-8755-eb23bac0721e" />
+<img width="687" height="119" alt="image" src="https://github.com/user-attachments/assets/3b47b38a-620e-4c92-9cd4-3cb8b04a2e82" />
 
 After:
 
-<img width="738" height="341" alt="image" src="https://github.com/user-attachments/assets/94ff6654-4f5a-43af-8256-16b440548a7e" />
+<img width="669" height="192" alt="image" src="https://github.com/user-attachments/assets/55203097-bea2-417f-9655-16c0c19f53c6" />
 
 ---
 
