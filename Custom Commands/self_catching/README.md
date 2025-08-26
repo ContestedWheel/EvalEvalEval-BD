@@ -64,4 +64,9 @@ After:
 
 Once you have done that, run the eval in the server of choice and you should see the bot itself will catch the ball.
 
+<img width="1080" height="1748" alt="image" src="https://github.com/user-attachments/assets/1bd0d306-918f-49a6-b481-8bb33c18d0a6" />
+
+
+
+
 If you have any questions or issues with this, feel free to ask to the creator on Discord. (tag is angerrandom)
