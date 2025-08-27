@@ -1,8 +1,8 @@
-# CustomCommands-BD
+# EvalEvalEval-BD
 [![Discord server](https://img.shields.io/badge/support-server-5865F2?logo=discord)](https://discord.gg/PKKhee4fvy)
 [![discord.py](https://img.shields.io/badge/discord-py-blue.svg)](https://github.com/Rapptz/discord.py)
 
-This is a repo for custom commands that various people in the community have made for Ballsdex.
+This is a repo for custom commands and evals that various people in the community have made for Ballsdex.
 
 As Custom Commands are a little bit more on the advanced side, I have created some tutorials that will try to help beginners. Click "Wiki" or [click this blue text.](https://github.com/ContestedWheel/EvalEvalEval-BD/wiki) to access them.
 
@@ -10,7 +10,7 @@ Custom Commands are **NOT** packages. Please stop treating them like one.
 
 If you don't want to touch code or not ready for adding custom stuff yet, I suggest you steer away from the Custom Commands part until you are ready.
 
-If you have any custom commands you want me to add, ping me in the Ballsdex Developers discord server (ihailthenight1234).
+If you have any custom commands or evals you want me to add, ping me in the Ballsdex Developers discord server (ihailthenight1234).
 
 ## Discord server
 
@@ -31,4 +31,4 @@ I also had to delete them due to them also not having a license, therefore I can
 
 ### Q: So, what happens now?
 
-This repo will now focus on custom commands (that I have gotten permission to use) and any evals that come across my way. The wiki pages will also still be up, just some custom commands and evals are going away.
+I am trying to get licenses for as much custom commands and evals as I can but not all of them will come back. The wiki with all the tutorials I have made will still be up.
