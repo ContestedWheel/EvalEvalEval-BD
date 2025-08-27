@@ -29,6 +29,6 @@ I unfourtnately had to delete almost all of them due to licensing issues. I did 
 
 I also had to delete them due to them also not having a license, therefore I cannot really host any evals on this repo. If anyone wants to give permissions to me to use their evals, please let me know.
 
-### 1: So, what happens now?
+### Q: So, what happens now?
 
 This repo will now focus on custom commands (that I have gotten permission to use) and any evals that come across my way. The wiki pages will also still be up, just some custom commands and evals are going away.
