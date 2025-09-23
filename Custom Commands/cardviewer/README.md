@@ -13,7 +13,7 @@ It should look like this:
 - from ballsdex.packages.balls.cardgenerator import CardGenerator
 - import io
 - from ballsdex.core.utils.transformers import BallTransform
-- ballsdex.core.utils.transformers import SpecialTransform
+- from ballsdex.core.utils.transformers import SpecialTransform
 
 If you need a reminder on how to import or don't know how, click [here](https://github.com/ContestedWheel/EvalEvalEval-BD/wiki/Adding-custom-commands#importing)
 
