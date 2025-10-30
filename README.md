@@ -1,6 +1,5 @@
-# EvalEvalEval-BD
-[![Discord server](https://img.shields.io/badge/support-server-5865F2?logo=discord)](https://discord.gg/PKKhee4fvy)
-[![discord.py](https://img.shields.io/badge/discord-py-blue.svg)](https://github.com/Rapptz/discord.py)
+> [!IMPORTANT]
+> This repo is no longer being maintained actively. I will still do some fixes when reported but I most likely won't add anymore custom commands or evals due to the repetitive process of trying to get licenses. If I do end up adding any, it will be from people that I know have given me full permission to add their work here.
 
 This is a repo for custom commands and evals that various people in the community have made for Ballsdex.
 
