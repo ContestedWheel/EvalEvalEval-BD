@@ -1,3 +1,7 @@
+# You should have defaultdict imported before you put this command in your bot. If not, put this below "from typing import TYPE_CHECKING, cast"
+from collections import defaultdict
+
+# Command to put in your bot:
     @app_commands.command()
     @app_commands.describe(countryball="The ball to be queried")
     async def rarity(
@@ -6,7 +10,7 @@
         countryball: BallEnabledTransform | None = None,
     ):
         """
-        Shows the rarity list of the bot, with the option to search for a specific ball.
+        rarity list for balls, grouped by rarity level, or search for the rarity of a specific ball.
 
         Parameters
         ----------
